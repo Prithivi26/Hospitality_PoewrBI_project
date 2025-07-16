@@ -36,8 +36,8 @@ The project covers key performance indicators (KPIs) and visual insights to eval
 
 
 ### Business Outcome:
- Enabled hotel teams to track revenue and booking patterns in real time.
+ * Enabled hotel teams to track revenue and booking patterns in real time.
 
- Improved decision-making on pricing, promotions, and staff allocation.
+ * Improved decision-making on pricing, promotions, and staff allocation.
 
- Identified peak seasons and underperforming time periods for targeted interventions.
+ * Identified peak seasons and underperforming time periods for targeted interventions.
