@@ -21,3 +21,15 @@ The project covers key performance indicators (KPIs) and visual insights to eval
  Average Booking Value (ABV) – Revenue per booking to understand customer value.
 
  Slicers/Filters: Time Period, Room Type, Location, Booking Channel.
+
+
+### Insights You Can Mention:
+ Monthly Growth: Revenue and bookings show a steady upward trend, with peaks during [festive months or holiday seasons].
+
+ High Booking Periods: Bookings spike during weekends and special holidays, indicating demand surges.
+
+⚠ Low Conversion Periods: Certain months have lower bookings despite marketing efforts, suggesting a need for campaign review.
+
+ Top Locations: Properties in [City X or Area Y] generate higher revenue due to consistent booking volume and higher ADR.
+
+ Customer Behavior: Majority of bookings come from online channels, indicating digital platforms are key drivers.
