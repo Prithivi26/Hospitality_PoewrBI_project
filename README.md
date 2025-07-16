@@ -57,7 +57,7 @@ This project consolidates financial and operational data into a single Revenue &
 
 * Targeted campaigns based on booking behavior drive incremental revenue.
 
-Screenshots
+## Screenshots
 
 Revenue Overview                        Bookings Trend
 
@@ -65,8 +65,9 @@ Revenue Overview                        Bookings Trend
 
 
 
+<img width="1769" height="900" alt="Screenshot 2025-07-16 104707" src="https://github.com/user-attachments/assets/c49684a8-abae-4036-9df6-0b9c40fbdbcd" />
 
 
 
 
-Crafted with ❤️ by S.Prithivivasanthan
+
