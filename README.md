@@ -68,8 +68,5 @@ Revenue Overview                        Bookings Trend
 
 
 
-License
-
-MIT
 
 Crafted with ❤️ by S.Prithivivasanthan
