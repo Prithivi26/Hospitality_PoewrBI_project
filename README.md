@@ -51,11 +51,12 @@ This project consolidates financial and operational data into a single Revenue &
 
 ## Business Impact
 
-* Real‑time performance tracking improves pricing and promotional agility.
+* Enabled hotel teams to track revenue and booking patterns in real time.
 
-* Data‑driven staffing reduces operational costs during low‑demand periods.
+* Improved decision-making on pricing, promotions, and staff allocation.
 
-* Targeted campaigns based on booking behavior drive incremental revenue.
+* Identified peak seasons and underperforming time periods for targeted interventions.
+
 
 ## Screenshots
 
