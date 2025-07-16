@@ -28,7 +28,7 @@ The project covers key performance indicators (KPIs) and visual insights to eval
 
  High Booking Periods: Bookings spike during weekends and special holidays, indicating demand surges.
 
-⚠ Low Conversion Periods: Certain months have lower bookings despite marketing efforts, suggesting a need for campaign review.
+ Low Conversion Periods: Certain months have lower bookings despite marketing efforts, suggesting a need for campaign review.
 
  Top Locations: Properties in [City X or Area Y] generate higher revenue due to consistent booking volume and higher ADR.
 
