@@ -67,8 +67,8 @@ Revenue Overview and Bookings Trend
 
 
 
+<img width="1374" height="705" alt="Screenshot 2025-07-16 105943" src="https://github.com/user-attachments/assets/1e37d188-738a-464a-8bdf-b5417ae82ea3" />
 
- <img width="1722" height="883" alt="Screenshot 2025-07-16 104707" src="https://github.com/user-attachments/assets/2bc6e896-f53e-4547-9ab1-f6ca586d00a3" />
 
 
 
