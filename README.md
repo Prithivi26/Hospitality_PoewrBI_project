@@ -1,11 +1,11 @@
-#Hospitality Analytics – Revenue & Bookings Dashboard
+# Hospitality Analytics – Revenue & Bookings Dashboard
 
 
 
 
 An interactive Power BI dashboard that tracks total revenue and bookings trend for a hotel group, enabling data‑driven pricing, marketing, and staffing decisions.
 
-##Table of Contents
+## Table of Contents
 
 * Overview
 
