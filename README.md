@@ -23,7 +23,7 @@ The project covers key performance indicators (KPIs) and visual insights to eval
  Slicers/Filters: Time Period, Room Type, Location, Booking Channel.
 
 
-### Insights You Can Mention:
+### Insights:
  Monthly Growth: Revenue and bookings show a steady upward trend, with peaks during [festive months or holiday seasons].
 
  High Booking Periods: Bookings spike during weekends and special holidays, indicating demand surges.
