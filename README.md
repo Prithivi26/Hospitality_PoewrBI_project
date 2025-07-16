@@ -59,15 +59,20 @@ This project consolidates financial and operational data into a single Revenue &
 
 ## Screenshots
 
-Revenue Overview                        Bookings Trend
+Revenue Overview and Bookings Trend
 
 
 
 
 
-<img width="1769" height="900" alt="Screenshot 2025-07-16 104707" src="https://github.com/user-attachments/assets/c49684a8-abae-4036-9df6-0b9c40fbdbcd" />
 
 
 
+ <img width="1722" height="883" alt="Screenshot 2025-07-16 104707" src="https://github.com/user-attachments/assets/2bc6e896-f53e-4547-9ab1-f6ca586d00a3" />
+
+
+
+### Data Source
+    CodeBasics.io
 
 
