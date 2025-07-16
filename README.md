@@ -37,7 +37,7 @@ This project consolidates financial and operational data into a single Revenue &
 
 * Average Booking Value (ABV)
 
-* Slicers for Date, Location, Room Type, Booking Channel
+* Slicers for Date, Location, Room Type
 
 ## Insights
 
